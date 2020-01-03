@@ -79,34 +79,57 @@ html{
 #tempo .titulo h1{
 	margin-top: 50px;
 }
+#tempo .app{
+	padding: 0;
+}
 #tempo .app h4{
 	background: #63c7bd;
-	padding: 50px 10px;
+	padding: 30px 10px;
 	color: #fff;
 }
 #tempo .descricao_app{
 	background: #f1f1f1;
-	padding: 50px 20px;
+	padding: 30px 20px 50px 20px;
 	margin-bottom: 30px;
 	transition: 0.9s;
 }
 #tempo .descricao_app:hover{
-	padding: 50px 80px;
+	padding: 30px 20px 50px 40px;
+}
+#tempo .site{
+	padding: 0;
 }
 #tempo .site h4{
 	background: #57c570;
-	padding: 50px 10px;
+	padding: 30px 10px;
 	color: #fff;
 	text-align: center;
 }
 #tempo .descricao_site{
 	background: #f1f1f1;
-	padding: 50px 20px;
+	padding: 30px 20px 50px 20px;
 	margin-bottom: 30px;
 	transition: 0.9s;
 }
 #tempo .descricao_site:hover{
-	padding: 50px 80px;
+	padding: 30px 40px 50px 20px;
+}
+#tempo .linha_tempo .bola{	
+	margin-top: 30px;
+	background: #e4e1e1;
+	border-radius: 50%;
+	height: 20px;
+	width: 20px;
+}
+#tempo .linha_tempo .linha_bola{	
+	background: #e4e1e1;
+	height: 100%;
+	width: 2px;
+}
+@media (max-width: 999px) {
+	#tempo{
+		display: none;
+	}
 }
 
 
@@ -220,14 +243,6 @@ html{
 #barra_fim .midias ul li{
 	margin: 0 20px;
 }
-#barra_fim .midias ul li.facebook{
-	list-style: none;
-    background: transparent;
-    border-radius: 50%;
-    border: 2px solid #999999;
-    padding: 5px 10px;
-    transition: 0.9s;
-}
 #barra_fim .midias  ul li.zap{
 	list-style: none;
     background: transparent;
@@ -242,21 +257,7 @@ html{
     border: 2px solid #999999;
     padding: 5px 10px;
 }
-#barra_fim .midias  ul li.email{
-	list-style: none;
-    background: transparent;
-    border-radius: 50%;
-    border: 2px solid #999999;
-    padding: 5px 10px;
-}
 #barra_fim .midias  ul li.git{
-	list-style: none;
-    background: transparent;
-    border-radius: 50%;
-    border: 2px solid #999999;
-    padding: 5px 10px;
-}
-#barra_fim .midias  ul li.insta{
 	list-style: none;
     background: transparent;
     border-radius: 50%;

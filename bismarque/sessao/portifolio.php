@@ -10,42 +10,42 @@
 		<div class="row">
 			<div class="col-md-3 blocos text-center">
 				<div class="hover">
-					<a href="bismarquewp.tk/+love" target="_blank"><h4>+LOVE</h4></a>
+					<a href="http://bismarquewp.tk/" target="_blank"><h4>+LOVE</h4></a>
 				</div>
 			</div>
 			<div class="col-md-3 blocos turismo text-center">
 				<div class="hover">
-					<a href="bismarquewp.tk/+love" target="_blank"><h4>TURISMO</h4></a>
+					<a href="#" target="_blank"><h4>TURISMO</h4></a>
 				</div>
 			</div>
 			<div class="col-md-3 blocos hamb text-center">
 				<div class="hover">
-					<a href="bismarquewp.tk/+love" target="_blank"><h4>HAMBURGUERIA</h4></a>
+					<a href="#" target="_blank"><h4>HAMBURGUERIA</h4></a>
 				</div>
 			</div>
 			<div class="col-md-3 blocos clinica text-center">
 				<div class="hover">
-					<a href="bismarquewp.tk/+love" target="_blank"><h4>CLINICA</h4></a>
+					<a href="#" target="_blank"><h4>CLINICA</h4></a>
 				</div>
 			</div>
 			<div class="col-md-3 blocos aluno text-center">
 				<div class="hover">
-					<a href="bismarquewp.tk/+love" target="_blank"><h4>CONTROLE ALUNOS</h4></a>
+					<a href="#" target="_blank"><h4>CONTROLE ALUNOS</h4></a>
 				</div>
 			</div>
 			<div class="col-md-3 blocos jogo text-center">
 				<div class="hover">
-					<a href="bismarquewp.tk/+love" target="_blank"><h4>JOGO DA VELHA</h4></a>
+					<a href="http://bismarquewp.tk/jogo/" target="_blank"><h4>JOGO DA VELHA</h4></a>
 				</div>
 			</div>
 			<div class="col-md-3 blocos recode text-center">
 				<div class="hover">
-					<a href="bismarquewp.tk/+love" target="_blank"><h4>RECODE PRO</h4></a>
+					<a href="#" target="_blank"><h4>RECODE PRO</h4></a>
 				</div>
 			</div>
 			<div class="col-md-3 blocos rw text-center">
 				<div class="hover">
-					<a href="bismarquewp.tk/+love" target="_blank"><h4>RW AUTO-VIDRO</h4></a>
+					<a href="http://www.rwautovidros.com.br" target="_blank"><h4>RW AUTO-VIDRO</h4></a>
 				</div>
 			</div>
 		</div>

@@ -12,7 +12,7 @@
                     <div class="collapse navbar-collapse" id="collapsibleNavbar">
                         <ul class="navbar-nav justify-content-between">
                             <li class="nav-item">
-                                <a class="nav-link home_menu" href="#principal">Home</a>
+                                <a class="nav-link home_menu" href="#principal">Inicio</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#quem_sou">Quem Sou</a>
